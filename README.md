@@ -33,5 +33,5 @@
   No tests currently exist.
   
   > ## Questions:
-  If you have any question please [Justindholderman](https://github.com/Justindholderman) or send me an email to: justindholderman@gmail.com
+  If you have any questions please contact me via Github [Justindholderman](https://github.com/Justindholderman) or send me an email to: justindholderman@gmail.com
       
